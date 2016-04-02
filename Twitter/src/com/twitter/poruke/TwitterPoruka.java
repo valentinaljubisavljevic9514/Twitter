@@ -47,7 +47,7 @@ public class TwitterPoruka {
 	/**
 	 * Metoda postavlja novu vrednost poruke
 	 * @param poruka 
-	 * * @throws java.lang.RuntimeException ako je uneto ime
+	 * @throws java.lang.RuntimeException ako je uneto ime
 	 * <ul> 
 	 * <li>null</li>
 	 * <li>duzina poruke veca od 140 karaktera</li>
